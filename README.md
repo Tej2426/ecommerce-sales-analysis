@@ -7,7 +7,6 @@ Analyze e-commerce sales data to identify key revenue drivers, profitability iss
 
 ## 🛠 Tools Used
 - Python (Pandas)
-- SQL
 - Power BI
 
 ---
