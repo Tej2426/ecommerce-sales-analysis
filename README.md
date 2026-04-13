@@ -26,7 +26,7 @@ Sample Superstore dataset containing 9,994+ transaction records including sales,
 ---
 
 ## 📊 Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard1.png)
 
 ---
 
